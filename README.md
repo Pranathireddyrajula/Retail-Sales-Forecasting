@@ -32,10 +32,10 @@ This project predicts **weekly retail sales** for stores or products using histo
 ```
 retail-forecasting/
 │
-├── streamlit_app.py              # Main Streamlit app
-├── requirements.txt              # Project dependencies
-├── Retail_Sales_Forecasting_Project.pdf   # Documentation
-└── README.md                     # Project description
+├── streamlit_app.py              
+├── sales.ipynb             
+├── Retail_Sales_Forecasting_Project.pdf   
+└── README.md                     
 ```
 
 ---
@@ -78,6 +78,7 @@ Your CSV should include:
 * Applied **time series forecasting** with machine learning (XGBoost).
 * Built a **professional BI-style dashboard** with KPIs and charts.
 * Gained skills in **data visualization, business insight, and reporting**.
+
 
 
 
