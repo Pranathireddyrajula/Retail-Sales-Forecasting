@@ -81,9 +81,6 @@ Your CSV should include:
 
 
 
-Your app will be live at:
 
-```
-https://<your-username>-retail-forecasting.stre
-```
+
 
