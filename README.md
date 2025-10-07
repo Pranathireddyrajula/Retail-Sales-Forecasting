@@ -45,9 +45,7 @@ retail-forecasting/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/retail-forecasting.git
-cd retail-forecasting
-```
+git clone https:https://github.com/Pranathireddyrajula/Retail-Sales-Forecasting.git
 
 2. Install dependencies:
 
@@ -81,25 +79,11 @@ Your CSV should include:
 * Built a **professional BI-style dashboard** with KPIs and charts.
 * Gained skills in **data visualization, business insight, and reporting**.
 
----
 
-## 📜 Documentation
-
-A detailed PDF explaining the methodology, tools, workflow, and how to showcase this project in CVs and scholarships is included:
-📄 `Retail_Sales_Forecasting_Project.pdf`
-
----
-
-## 🌐 Deployment (Optional)
-
-You can deploy the project online using [Streamlit Cloud](https://streamlit.io/cloud):
-
-1. Push this repo to GitHub.
-2. Connect Streamlit Cloud to your GitHub.
-3. Deploy `streamlit_app.py`.
 
 Your app will be live at:
 
 ```
 https://<your-username>-retail-forecasting.stre
 ```
+
